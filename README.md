@@ -5,20 +5,18 @@ This code is based off
 
 # Versions of the program
 
-# Step 1 : 
-Streams and Delayed Streams
  
-# Step 2: 
+# Step 1: 
 The metacircular evaluator.
 
-# Step 3: 
+# Step 2: 
 Modifying the metacircular evaluator.
 
-# Step 4: 
+# Step 3: 
 Computing with register machines. Modifying the register machine simulator.
 
-# Step 5: 
+# Step 4: 
 The explicit-control evaluator. Implementing tail-recursion.
 
-# Step 6: 
+# Step 5: 
 Compilation!
