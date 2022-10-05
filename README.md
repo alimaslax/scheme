@@ -1,5 +1,5 @@
 # scheme
-Compiler for UMB scheme written in scheme. The files are seperated
+Copy of Compiler for UMB scheme written in scheme. The files are seperated
 into different folders in order to go step by step in creating the final compiler program.
 The Base of the Code was created by Carl Offner, 10/21/98 -- 10/12/04
 
